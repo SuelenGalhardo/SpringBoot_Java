@@ -1,4 +1,4 @@
-package gmail.com.suelenranuccicom.example.primerproyectospringboot;
+package gmail.com.suelenranuccicom.primerproyectospringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

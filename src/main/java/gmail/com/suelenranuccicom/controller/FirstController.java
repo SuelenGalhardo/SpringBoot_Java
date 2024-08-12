@@ -1,4 +1,4 @@
-package gmail.com.suelenranuccicom.example.controller;
+package gmail.com.suelenranuccicom.controller;
 
 import java.util.Map;
 

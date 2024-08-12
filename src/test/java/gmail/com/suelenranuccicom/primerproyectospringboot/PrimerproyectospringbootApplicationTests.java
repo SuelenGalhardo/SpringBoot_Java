@@ -1,4 +1,4 @@
-package gmail.com.suelenranuccicom.example.primerproyectospringboot;
+package gmail.com.suelenranuccicom.primerproyectospringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
